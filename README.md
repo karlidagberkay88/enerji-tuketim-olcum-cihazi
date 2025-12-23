@@ -2,4 +2,4 @@ Kocaeli Üniversitesi
 Elektronik Teknolojisi
 Elektronik sistemler dersi
 Enerji tüketim ölçüm cihazı 
-Arduino kodu
+Arduino yazılımları.
